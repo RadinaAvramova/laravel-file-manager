@@ -1,9 +1,4 @@
 <?php
-/**
- * User: Zura
- * Date: 5/13/2023
- * Time: 6:20 PM
- */
 
 namespace App\Traits;
 
